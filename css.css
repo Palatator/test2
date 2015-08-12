@@ -1,0 +1,139 @@
+body
+{
+    background-color: rgb(64, 179, 81);
+	font-family: "Comic sans MS", serif;
+	font-size: 12px;
+}
+
+h1
+{
+    font-weight: bold;
+	font-size: 144%;
+	text-decoration: underline;
+	text-align: center;
+	color: rgb(97, 97, 97);
+}
+
+.vert
+{
+    color: rgb(47, 245, 77);
+}
+
+a.menu
+{
+    background-color: rgb(15, 40, 240);
+	text-align: left;
+    border: 2.5px green inset;
+	margin: 0px;
+	padding: 0px;
+	font-size: 130%;
+	color: rgb(40, 170, 55);
+}
+
+table
+{
+    text-align: center;
+    margin: auto;
+	border-collapse: collapse;
+}
+
+td
+{
+    border: 7.5px inset green;
+	padding-left: 10.5px;
+	padding-right: 10.5px;
+	padding-top: 5.5px;
+	padding-bottom: 5.5px;
+}
+
+th
+{
+    border: 9px inset green;
+	padding-left: 13.5px;
+	padding-right: 13.5px;
+	padding-top: 6.5px;
+	padding-bottom: 6.5px;
+}
+
+div.menu
+{
+   float: left;
+   width: 15%;
+   border: 4px inset green;
+   padding: 8px;
+   margin: 4px;
+}
+
+#page
+{
+    margin: auto;
+	margin-left: 18%;
+}
+
+caption
+{
+    font-size: 105%;
+	border: 1.7px rgb(24, 189, 100) outset;
+	caption-side: top;
+}
+.centre
+{
+	text-align: center;
+	font-size: 108%;
+}
+
+a img 
+{
+   border: 6px green outset;
+}
+
+em
+{
+    font-size: 108%;
+	margin: 0.1px;
+	padding: 0.1px;
+}
+
+strong
+{
+   color: white;
+   font-size: 135%;
+   font-weight: bold;
+}
+
+strong.double 
+{
+    font-size: 170%;
+	font-weight: bold;
+}
+
+.fmaj:first-letter
+{
+    text-transform: uppercase;
+}
+
+.invisible
+{
+    display: none;
+}
+
+label
+{
+    font-size: 105%;
+	border: 1.7px rgb(24, 189, 100) outset;
+}
+
+.rouge
+{
+    color: rgb(232, 24, 11);
+}
+
+.jaune
+{
+    color: rgb(254, 255, 22);
+}
+
+.entoure_invisible
+{
+    border: 2px rgb(24, 189, 100) outset;
+}
